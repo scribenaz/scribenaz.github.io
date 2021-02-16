@@ -11,7 +11,7 @@ layout: default
 
 <table id="ryan-v-ryan">
 
-![](https://scribenaz.github.io/assets/img/ryan-v-ryan.jpg) 
+![](https://camo.githubusercontent.com/91c878f1796ccc251059828351c1d4f9671bd94b21a84198bb842d335cf81bc0/68747470733a2f2f7363726962656e617a2e6769746875622e696f2f6173736574732f696d672f7279616e2d762d7279616e2e6a7067) 
 
 <thead>
   <tr>
