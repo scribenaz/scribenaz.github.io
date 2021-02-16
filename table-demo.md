@@ -11,7 +11,7 @@ layout: default
 
 <table id="ryan-v-ryan">
 
-![](https://github.com/scribenaz/scribenaz.github.io/edit/master/assets/img/ryan-v-ryan.jpg) 
+![](https://scribenaz.github.io/assets/img/ryan-v-ryan.jpg) 
 
 <thead>
   <tr>
