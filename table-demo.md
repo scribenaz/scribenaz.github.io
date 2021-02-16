@@ -11,6 +11,8 @@ layout: default
 
 <table id="ryan-v-ryan">
 
+![](img/ryan-v-ryan.jpg) 
+
 <thead>
   <tr>
     <th>  <h3>  Ryan Reynolds  </h3>  </th>
