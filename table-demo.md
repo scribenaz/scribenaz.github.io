@@ -11,7 +11,7 @@ layout: page
 
 <table id="ryan-v-ryan">
 
-![](https://scribenaz.github.io/assets/img/ryan-v-ryan.jpg) 
+![](/assets/img/ryan-v-ryan.jpg) 
 
 <thead>
   <tr>
