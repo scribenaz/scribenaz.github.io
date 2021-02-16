@@ -5,7 +5,7 @@ layout: page
 {{ content }}
 
 
-![](https://github.com/scribenaz/scribenaz.github.io/blob/master/assets/img/ryan-v-ryan.jpg) 
+
 
 <h2> Ryan vs Ryan: Liquid Table Demo </h2>
 
@@ -24,6 +24,7 @@ layout: page
 
 <tr>
   
+  ![](https://github.com/scribenaz/scribenaz.github.io/blob/master/assets/img/ryan-v-ryan.jpg) 
   
   <td>
   
