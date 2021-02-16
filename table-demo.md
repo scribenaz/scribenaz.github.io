@@ -24,9 +24,8 @@ layout: default
 
 <tr>
   
-  
-   ![](assets/img/ryan-v-ryan.jpg)
   <td>
+     ![](assets/img/ryan-v-ryan.jpg)
     
     <h4>  Strengths  </h4>
     <ul>
