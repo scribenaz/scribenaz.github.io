@@ -32,3 +32,28 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, c
 Note that in the video above only one setting in the `_config.yml` file is edited. **You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!**
 
 ### 4. Congratulations! You have a website!
+
+<style>
+
+.gs-section-01 h3 { 
+     color: red }
+
+.gs-section-01 p {
+     font-size: 50px;
+}
+
+.gs-section-02 h3 { 
+     color: blue }
+
+.gs-section-02 p {
+     font-size: 40px;
+}
+
+.gs-section-03 h3 { 
+     color: green }
+
+.gs-section-03 p {
+     font-size: 30px;
+}
+
+</style>
