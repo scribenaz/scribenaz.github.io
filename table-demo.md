@@ -11,7 +11,7 @@ layout: default
 
 <table id="ryan-v-ryan">
 
-![](img/ryan-v-ryan.jpg) 
+![](assets/img/ryan-v-ryan.jpg) 
 
 <thead>
   <tr>
