@@ -24,9 +24,7 @@ layout: page
 
 <tr>
   
- ### ![](https://github.com/scribenaz/scribenaz.github.io/blob/master/assets/img/ryan-v-ryan.jpg) 
  
-  ![](assets/img/ryan-v-ryan.jpg) 
  
   <td>
   
