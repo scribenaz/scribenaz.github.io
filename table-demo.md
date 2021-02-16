@@ -9,7 +9,7 @@ layout: default
 
 <h2> Ryan vs Ryan: Liquid Table Demo </h2>
 
- ![](assets/img/ryan-v-ryan.jpg)
+
 
 <table id="ryan-v-ryan">
 
@@ -25,6 +25,7 @@ layout: default
 <tr>
   
   
+   ![](assets/img/ryan-v-ryan.jpg)
   <td>
     
     <h4>  Strengths  </h4>
