@@ -1,3 +1,8 @@
+# Welcome to Beautiful Jekyll!
+# This config file is meant for settings that affect your entire website. When you first
+# set up your website you should go through all these settings and edit them, but after
+# the initial set up you won't need to come back to this file often.
+
 # --- Required options --- #
 
 # Name of website
@@ -19,7 +24,7 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"     #ADD THIS LINK per lab instructions
   Table Demo: "table-demo"    #ADD THIS LINK per lab instructions
-
+  Author's home: "https://guohuibinli.com/"
 
 
 
@@ -83,6 +88,12 @@ url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
+
+# Whether or not to show an excerpt for every blog post in the feed page
+feed_show_excerpt: true
+
+# Whether or not to show a list of tags below each post preview in the feed page
+feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
