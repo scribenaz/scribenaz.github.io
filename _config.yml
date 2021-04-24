@@ -24,6 +24,7 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"     #ADD THIS LINK per lab instructions
     - Code Through: "YellowDigCodeThrough-Smith" 
+    - DiagrammeR: "Code-Through-Smith.html"
   Table Demo: "table-demo"    #ADD THIS LINK per lab instructions
   Author's home: "https://guohuibinli.com/"
 
